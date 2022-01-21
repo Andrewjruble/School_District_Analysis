@@ -21,7 +21,7 @@ How is the school summary affected?
 ![SchoolSummaryUp](https://github.com/Andrewjruble/School_District_Analysis/blob/main/Resources/School_Summary_Updated.png)
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-
+dd
 
 
 How does replacing the ninth-grade scores affect the following:
