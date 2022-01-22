@@ -4,81 +4,80 @@ Explain the purpose of this analysis. The purpose of this analysis is well defin
 Using Python, Pandas Library, Numpy Library and Jupyter Notebook, an analysis was done on the performances of various school districts. Once completed, it has been revealed that some of the data may be invalid. 9th graders from Thomas High School, a school from the study has been accused of academic misconduct in both math and reading. The scores from this dataset need to be replaced with Nan (a null value) and the analysis needs to be repeated. 
 
 
-Results: Using bulleted lists and images of DataFrames as support, address the following questions.There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10pt)
+## Results
+
+### How is the district summary affected?
 
 
-## How is the district summary affected?
-
-![name-of-you-image](https://your-copied-image-address)
-### District Analysis Original
+#### District Analysis Original
 ![DistrictAnalysisOG](https://github.com/Andrewjruble/School_District_Analysis/blob/main/Resources/District_Analysis_Original.png)
-### District Analysis Updated
+#### District Analysis Updated
 ![DistrictAnalysisUp](https://github.com/Andrewjruble/School_District_Analysis/blob/main/Resources/District_Analysis_Updated.png)
 
 
-## How is the school summary affected?
+### How is the school summary affected?
 
-### Original
+#### Original
 ![SchoolSummaryOG](https://github.com/Andrewjruble/School_District_Analysis/blob/main/Resources/School_Summary_Original.png)
 
 
-### Updated
+#### Updated
 ![SchoolSummaryUp](https://github.com/Andrewjruble/School_District_Analysis/blob/main/Resources/School_Summary_Updated.png)
 
-## How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-### Original
+#### Original
 ![topschoolOG](https://github.com/Andrewjruble/School_District_Analysis/blob/main/Resources/TopSchoolsOG.png)
 
-### Updated
+#### Updated
 ![topSchoolUp](https://github.com/Andrewjruble/School_District_Analysis/blob/main/Resources/TopSchoolsUpdated.png)
 
-## How does replacing the ninth-grade scores affect the following:
+### How does replacing the ninth-grade scores affect the following:
 
-### Math and reading scores by grade
+#### Math and reading scores by grade
 
 
-### Original
+#### Original
 ![MathScoresGradeOG](https://github.com/Andrewjruble/School_District_Analysis/blob/main/Resources/MathScoresGradeOriginal.png)
 
 
-### Updated
+#### Updated
 ![MathScoresGradeUp](https://github.com/Andrewjruble/School_District_Analysis/blob/main/Resources/Mathscoresgradeupdated.png)
 
 
-### Original
+#### Original
 ![ReadingScoresOG](https://github.com/Andrewjruble/School_District_Analysis/blob/main/Resources/ReadingScoresGradeOriginal.png)
 
 
-### Updated
+#### Updated
 ![ReadingScoresUp](https://github.com/Andrewjruble/School_District_Analysis/blob/main/Resources/ReadingScoresGradeUpdated.png)
 
-## Scores by school spending
+### Scores by school spending
 
-### Original
+#### Original
 ![ScoresSpendOG](https://github.com/Andrewjruble/School_District_Analysis/blob/main/Resources/Scores_By_Spending_Original.png)
 
 
-### Updated
+#### Updated
 ![ScoresspendUP](https://github.com/Andrewjruble/School_District_Analysis/blob/main/Resources/Scores_By_Spending_Updated.png)
 
 
-## Scores by school size
+### Scores by school size
 
-### Updated
+#### Updated
 ![School_sizeUp](https://github.com/Andrewjruble/School_District_Analysis/blob/main/Resources/Scores_School_Size.Updated.png)
 
-### Original
+#### Original
 ![SchoolSizeOG](https://github.com/Andrewjruble/School_District_Analysis/blob/main/Resources/Scores_School_Size._Original.png)
 
-## Scores by school type
+### Scores by school type
 
-### Original
+#### Original
 ![SchooltypeOG](https://github.com/Andrewjruble/School_District_Analysis/blob/main/Resources/Scores_By_School_Type_Original.png)
 
-### Updated
+#### Updated
 ![SchoolTypeUp](https://github.com/Andrewjruble/School_District_Analysis/blob/main/Resources/Scores_By_School_Type_Updated.png)
 
-## Summary: 
+### Summary: 
 
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
