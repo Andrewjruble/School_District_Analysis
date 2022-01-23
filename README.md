@@ -8,6 +8,16 @@ Using Python, Pandas Library, Numpy Library and Jupyter Notebook, an analysis wa
 
 ## Results
 
+Below, screenshots are provided detailing how different results were affected:
+
+-District Summary
+-School Summary
+-Math and reading schools relative to other schools
+-Math and reading scores by grade
+-Scores relative to school spending
+-Scores relative to school size
+-Scores relative to school type
+
 ### How is the district summary affected?
 
 
