@@ -10,15 +10,17 @@ Using Python, Pandas Library, Numpy Library and Jupyter Notebook, an analysis wa
 
 Below, screenshots are provided detailing how different results were affected:
 
--District Summary
--School Summary
--Math and reading schools relative to other schools
--Math and reading scores by grade
--Scores relative to school spending
--Scores relative to school size
--Scores relative to school type
+- District Summary
+- School Summary
+- Math and reading scores:
+   - Relative to other schools
+   - By grade
+- Scores relative to school:
+   - Spending
+   - Size
+   - Type
 
-### How is the district summary affected?
+### How is the district anaylysis summary affected?
 
 
 #### District Analysis Original
@@ -94,3 +96,6 @@ Below, screenshots are provided detailing how different results were affected:
 ### Summary: 
 
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced (5 pt).
+
+- Looking at the distict summary, the percent overall passing lowered around .27%. 
+- The overall passing percent at Thomas High School was similar at about .3%. 
