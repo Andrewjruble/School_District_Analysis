@@ -1,5 +1,7 @@
 # School_District_Analysis
-## Overview of the school district analysis: 
+
+## Overview  
+
 Explain the purpose of this analysis. The purpose of this analysis is well defined (3 pt).
 Using Python, Pandas Library, Numpy Library and Jupyter Notebook, an analysis was done on the performances of various school districts. Once completed, it has been revealed that some of the data may be invalid. 9th graders from Thomas High School, a school from the study has been accused of academic misconduct in both math and reading. The scores from this dataset need to be replaced with Nan (a null value) and the analysis needs to be repeated. 
 
@@ -34,7 +36,7 @@ Using Python, Pandas Library, Numpy Library and Jupyter Notebook, an analysis wa
 
 ### How does replacing the ninth-grade scores affect the following:
 
-#### Math and reading scores by grade
+#### Math and Reading scores by grade
 
 
 #### Original
@@ -52,7 +54,7 @@ Using Python, Pandas Library, Numpy Library and Jupyter Notebook, an analysis wa
 #### Updated
 ![ReadingScoresUp](https://github.com/Andrewjruble/School_District_Analysis/blob/main/Resources/ReadingScoresGradeUpdated.png)
 
-### Scores by school spending
+### Scores by School Spending
 
 #### Original
 ![ScoresSpendOG](https://github.com/Andrewjruble/School_District_Analysis/blob/main/Resources/Scores_By_Spending_Original.png)
@@ -64,11 +66,12 @@ Using Python, Pandas Library, Numpy Library and Jupyter Notebook, an analysis wa
 
 ### Scores by school size
 
+#### Original
+![SchoolSizeOG](https://github.com/Andrewjruble/School_District_Analysis/blob/main/Resources/Scores_School_Size._Original.png)
+
 #### Updated
 ![School_sizeUp](https://github.com/Andrewjruble/School_District_Analysis/blob/main/Resources/Scores_School_Size.Updated.png)
 
-#### Original
-![SchoolSizeOG](https://github.com/Andrewjruble/School_District_Analysis/blob/main/Resources/Scores_School_Size._Original.png)
 
 ### Scores by school type
 
