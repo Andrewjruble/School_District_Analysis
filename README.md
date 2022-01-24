@@ -99,3 +99,5 @@ Summarize four changes in the updated school district analysis after reading and
 
 - Looking at the distict summary, the percent overall passing lowered around .27%. 
 - The overall passing percent at Thomas High School was similar at about .3%. 
+- Relative to other schools, Thomas High School did not move above or below a school in any catergory, but it only perform .0004 overall better than it's next contender in the updated version
+- Looking at performances based on school spending, the two middle bins ($585-$629, $630-$644) had dastric differences. With quantities big enough to incite more investigation (9% difference in one catergory), it was noticied that an error was made in the code. 
